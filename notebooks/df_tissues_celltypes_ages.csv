@@ -1,0 +1,599 @@
+,Tissue,Cell Type,Min mt count,Max mt count,Mean mt count,Normalized mt/total%,Age
+0,Lung,lung neuroendocrine cell,31642.0,31642.0,31642,1.54,3m
+1,Lung,lung neuroendocrine cell,65755.0,65755.0,65755,2.43,18m
+2,Lung,lung neuroendocrine cell,8942.0,12056.0,10499,1.8,24m
+3,Lung,leukocyte,3246.0,23767.0,13506,1.53,3m
+4,Pancreas,leukocyte,1346.0,60665.0,13833,1.48,3m
+5,Lung,leukocyte,2100.0,60036.0,32631,1.33,18m
+6,Pancreas,leukocyte,65.0,270410.0,36124,1.46,18m
+7,Lung,leukocyte,448.0,94244.0,22316,3.95,24m
+8,Pancreas,leukocyte,420.0,81045.0,17021,1.49,24m
+9,Heart,smooth muscle cell,2245.0,487762.0,57748,7.36,3m
+10,Heart,smooth muscle cell,47414.0,864398.0,214455,13.5,18m
+11,Heart,smooth muscle cell,3244.0,697264.0,182247,11.72,24m
+12,Large_Intestine,enterocyte of epithelium of large intestine,41.0,606322.0,104091,14.65,3m
+13,Large_Intestine,enterocyte of epithelium of large intestine,367.0,1015073.0,166100,12.35,18m
+14,Large_Intestine,enterocyte of epithelium of large intestine,42.0,779104.0,133322,11.84,24m
+15,Mammary_Gland,luminal epithelial cell of mammary gland,574.0,235605.0,26525,2.98,3m
+16,Mammary_Gland,luminal epithelial cell of mammary gland,268.0,67428.0,24432,2.4,18m
+17,Mammary_Gland,luminal epithelial cell of mammary gland,404.0,84713.0,17321,2.41,21m
+18,Pancreas,pancreatic B cell,115.0,479974.0,36569,3.1,3m
+19,Pancreas,pancreatic B cell,262.0,419475.0,67778,4.08,18m
+20,Pancreas,pancreatic B cell,32.0,357156.0,28000,4.35,24m
+21,Kidney,kidney interstitial fibroblast,1628.0,263462.0,74057,39.79,24m
+22,Heart,atrial myocyte,1375.0,1003968.0,267762,33.56,3m
+23,Heart,atrial myocyte,4296.0,3156659.0,175638,19.54,18m
+24,Heart,atrial myocyte,30.0,2893896.0,388164,41.52,24m
+25,Pancreas,pancreatic acinar cell,8.0,1304491.0,43534,10.78,3m
+26,Pancreas,pancreatic acinar cell,4.0,696559.0,63280,6.86,18m
+27,Pancreas,pancreatic acinar cell,0.0,1056917.0,17916,1.58,24m
+28,Brain_Non-Myeloid,astrocyte,782.0,827935.0,34593,4.2,3m
+29,Brain_Non-Myeloid,astrocyte,8436.0,590846.0,152080,8.35,18m
+30,Brain_Non-Myeloid,astrocyte,245.0,501396.0,120429,8.47,24m
+31,Brain_Non-Myeloid,brain pericyte,167.0,108121.0,21838,2.31,3m
+32,Brain_Non-Myeloid,brain pericyte,196.0,800229.0,106867,3.53,18m
+33,Brain_Non-Myeloid,brain pericyte,7396.0,449379.0,93892,4.07,24m
+34,Pancreas,pancreatic A cell,15.0,100571.0,20331,1.49,3m
+35,Pancreas,pancreatic A cell,1056.0,125714.0,34655,2.0,18m
+36,Pancreas,pancreatic A cell,89.0,266217.0,17157,1.7,24m
+37,Lung,fibroblast of lung,9.0,49331.0,6729,0.8,3m
+38,Lung,fibroblast of lung,6.0,68821.0,15282,1.05,18m
+39,Lung,fibroblast of lung,20.0,46004.0,7942,1.28,24m
+40,Heart,valve cell,4291.0,217105.0,42571,5.62,3m
+41,Heart,valve cell,8900.0,448977.0,115232,7.82,18m
+42,Heart,valve cell,1627.0,1329270.0,79768,7.58,24m
+43,Kidney,kidney loop of Henle ascending limb epithelial cell,128.0,336161.0,109383,25.32,3m
+44,Kidney,kidney loop of Henle ascending limb epithelial cell,1.0,1566871.0,283477,16.89,18m
+45,Kidney,kidney loop of Henle ascending limb epithelial cell,4481.0,682166.0,164509,23.16,24m
+46,BAT,B cell,875.0,693129.0,43063,8.39,3m
+47,Diaphragm,B cell,201.0,37949.0,12566,2.79,3m
+48,GAT,B cell,102.0,41370.0,17177,3.01,3m
+49,Heart,B cell,1955.0,1196378.0,170299,38.05,3m
+50,Kidney,B cell,3885.0,31168.0,17566,3.12,3m
+51,Limb_Muscle,B cell,1394.0,59465.0,13082,3.96,3m
+52,Liver,B cell,3516.0,55952.0,14132,4.08,3m
+53,Lung,B cell,835.0,67856.0,17572,3.28,3m
+54,MAT,B cell,2692.0,81048.0,22571,3.22,3m
+55,SCAT,B cell,769.0,38415.0,11224,3.26,3m
+56,Spleen,B cell,47.0,168937.0,20342,3.95,3m
+57,BAT,B cell,810.0,1118521.0,77194,4.27,18m
+58,Diaphragm,B cell,6702.0,641118.0,128493,2.24,18m
+59,GAT,B cell,431.0,197908.0,21227,2.34,18m
+60,Heart,B cell,11835.0,2665395.0,300000,56.13,18m
+61,Kidney,B cell,745.0,6328862.0,218427,34.81,18m
+62,Limb_Muscle,B cell,63.0,274436.0,14316,3.29,18m
+63,Liver,B cell,1367.0,295152.0,63811,4.13,18m
+64,Lung,B cell,2165.0,149041.0,40499,3.2,18m
+65,MAT,B cell,171.0,374573.0,20142,2.67,18m
+66,SCAT,B cell,2788.0,61242.0,13702,2.13,18m
+67,Spleen,B cell,979.0,220284.0,45369,3.8,18m
+68,BAT,B cell,159.0,1049247.0,38193,3.43,24m
+69,Diaphragm,B cell,67.0,111730.0,9501,1.25,24m
+70,GAT,B cell,102.0,87124.0,22141,2.05,24m
+71,Heart,B cell,252.0,1310384.0,163841,7.91,24m
+72,Kidney,B cell,5021.0,353377.0,85479,5.88,24m
+73,Limb_Muscle,B cell,552.0,258056.0,28302,2.52,24m
+74,Liver,B cell,168.0,153843.0,30661,3.76,24m
+75,Lung,B cell,134.0,313199.0,42975,5.2,24m
+76,MAT,B cell,734.0,109034.0,20656,2.49,24m
+77,SCAT,B cell,550.0,458514.0,33530,4.31,24m
+78,Spleen,B cell,68.0,485467.0,30144,3.66,24m
+79,Marrow,basophil,2443.0,23208.0,11701,1.71,3m
+80,Marrow,basophil,3940.0,37627.0,20977,1.82,18m
+81,Marrow,basophil,95.0,89335.0,16136,1.61,24m
+82,Skin,basal cell of epidermis,17.0,166106.0,15384,2.11,3m
+83,Tongue,basal cell of epidermis,16.0,63038.0,15302,1.97,3m
+84,Skin,basal cell of epidermis,294.0,682145.0,44000,2.32,18m
+85,Tongue,basal cell of epidermis,0.0,334475.0,21930,1.3,18m
+86,Skin,basal cell of epidermis,82.0,298286.0,51839,2.37,24m
+87,Tongue,basal cell of epidermis,17.0,135166.0,11127,1.37,24m
+88,BAT,T cell,1481.0,300899.0,34766,7.35,3m
+89,Brain_Non-Myeloid,T cell,67.0,31958.0,14493,4.47,3m
+90,Diaphragm,T cell,2226.0,27943.0,17484,2.96,3m
+91,GAT,T cell,2009.0,21895.0,9942,1.61,3m
+92,Heart,T cell,6324.0,184220.0,50722,6.38,3m
+93,Kidney,T cell,3551.0,27571.0,14245,1.54,3m
+94,Limb_Muscle,T cell,1025.0,43164.0,12297,3.51,3m
+95,Liver,T cell,8970.0,18723.0,13846,2.12,3m
+96,Lung,T cell,205.0,205.0,205,2.5,3m
+97,MAT,T cell,32.0,22495.0,7846,0.93,3m
+98,SCAT,T cell,57.0,35038.0,14085,3.13,3m
+99,Skin,T cell,5947.0,31668.0,18997,2.66,3m
+100,Trachea,T cell,920.0,37946.0,12567,2.38,3m
+101,BAT,T cell,5841.0,210653.0,77852,3.37,18m
+102,Brain_Non-Myeloid,T cell,707.0,399734.0,56773,6.09,18m
+103,Diaphragm,T cell,514.0,75711.0,14379,2.94,18m
+104,GAT,T cell,2192.0,42667.0,10854,1.55,18m
+105,Heart,T cell,5381.0,731339.0,120078,11.34,18m
+106,Kidney,T cell,456.0,307190.0,44030,2.91,18m
+107,Limb_Muscle,T cell,88.0,85266.0,16872,2.92,18m
+108,Liver,T cell,2176.0,124101.0,49919,2.68,18m
+109,Lung,T cell,5561.0,146760.0,50922,2.52,18m
+110,MAT,T cell,3714.0,18806.0,12922,1.36,18m
+111,SCAT,T cell,6612.0,29480.0,12149,1.44,18m
+112,Skin,T cell,1764.0,97409.0,37531,2.57,18m
+113,Trachea,T cell,596.0,198270.0,31738,2.48,18m
+114,BAT,T cell,223.0,619403.0,35637,3.15,24m
+115,Brain_Non-Myeloid,T cell,247.0,446840.0,155041,11.88,24m
+116,Diaphragm,T cell,765.0,9658.0,3753,2.33,24m
+117,GAT,T cell,282.0,30570.0,10226,2.28,24m
+118,Heart,T cell,273.0,751496.0,96216,6.27,24m
+119,Kidney,T cell,338.0,202952.0,33520,2.28,24m
+120,Limb_Muscle,T cell,195.0,110806.0,27319,2.54,24m
+121,Liver,T cell,244.0,182149.0,50856,3.56,24m
+122,Lung,T cell,3108.0,91504.0,21525,2.25,24m
+123,MAT,T cell,3116.0,20925.0,8578,2.11,24m
+124,SCAT,T cell,2375.0,202872.0,24179,3.46,24m
+125,Skin,T cell,4676.0,96041.0,23477,2.19,24m
+126,Trachea,T cell,280.0,81821.0,17989,2.82,24m
+127,Marrow,granulocyte,41.0,27932.0,4296,0.7,3m
+128,Spleen,granulocyte,192.0,1558.0,695,0.34,3m
+129,Trachea,granulocyte,337.0,11677.0,5242,1.32,3m
+130,Marrow,granulocyte,16.0,266457.0,4129,0.49,18m
+131,Spleen,granulocyte,7480.0,7480.0,7480,0.94,18m
+132,Trachea,granulocyte,927.0,102954.0,26140,1.7,18m
+133,Marrow,granulocyte,1.0,91621.0,3896,0.62,24m
+134,Spleen,granulocyte,213.0,24964.0,7126,0.46,24m
+135,Trachea,granulocyte,28.0,56194.0,8870,1.91,24m
+136,Mammary_Gland,basal cell,849.0,215085.0,27037,3.03,3m
+137,Mammary_Gland,basal cell,537.0,77784.0,20302,2.74,18m
+138,Mammary_Gland,basal cell,339.0,109131.0,21626,2.61,21m
+139,Aorta,fibroblast of cardiac tissue,4840.0,451646.0,42910,3.26,3m
+140,Heart,fibroblast of cardiac tissue,22.0,644186.0,28812,2.74,3m
+141,Aorta,fibroblast of cardiac tissue,86.0,375821.0,60839,2.51,18m
+142,Heart,fibroblast of cardiac tissue,560.0,2055261.0,110618,7.19,18m
+143,Aorta,fibroblast of cardiac tissue,7621.0,1099980.0,159204,4.72,24m
+144,Heart,fibroblast of cardiac tissue,45.0,2510859.0,73577,4.6,24m
+145,Brain_Non-Myeloid,medium spiny neuron,3185.0,60319.0,18249,2.29,3m
+146,Brain_Non-Myeloid,medium spiny neuron,20773.0,173948.0,105223,2.79,18m
+147,Brain_Non-Myeloid,medium spiny neuron,121764.0,286912.0,185773,3.68,24m
+148,Liver,hepatocyte,5.0,289442.0,44961,3.8,3m
+149,Liver,hepatocyte,0.0,1335574.0,89825,5.2,18m
+150,Liver,hepatocyte,0.0,1059688.0,100822,5.77,24m
+151,Marrow,hematopoietic stem cell,281.0,75543.0,18572,1.92,3m
+152,Marrow,hematopoietic stem cell,32.0,306909.0,25397,1.94,18m
+153,Marrow,hematopoietic stem cell,56.0,224039.0,22799,2.53,24m
+154,Brain_Non-Myeloid,neuronal stem cell,120.0,102818.0,21449,1.68,3m
+155,Brain_Non-Myeloid,neuronal stem cell,9676.0,412757.0,136978,2.28,18m
+156,Brain_Non-Myeloid,neuronal stem cell,95126.0,95126.0,95126,3.21,24m
+157,Marrow,precursor B cell,129.0,55317.0,12368,3.32,3m
+158,Marrow,precursor B cell,287.0,132000.0,21459,2.65,18m
+159,Marrow,precursor B cell,71.0,823459.0,18719,2.87,24m
+160,Large_Intestine,secretory cell,102.0,139077.0,40902,3.3,3m
+161,Large_Intestine,secretory cell,799.0,234686.0,90360,3.5,18m
+162,Large_Intestine,secretory cell,10650.0,193323.0,66194,3.5,24m
+163,Lung,dendritic cell,111.0,45647.0,12100,1.38,3m
+164,Lung,dendritic cell,2365.0,42199.0,17160,1.15,18m
+165,Lung,dendritic cell,57.0,44846.0,11819,1.32,24m
+166,Trachea,chondrocyte,1029.0,29849.0,12381,1.69,3m
+167,Trachea,chondrocyte,6579.0,131505.0,34583,2.12,18m
+168,Trachea,chondrocyte,1036.0,89614.0,26718,1.81,24m
+169,Aorta,fibrocyte,13957.0,568459.0,88107,6.13,3m
+170,Aorta,fibrocyte,7036.0,532038.0,156106,7.02,18m
+171,Aorta,fibrocyte,13366.0,370349.0,161936,2.58,24m
+172,Marrow,promonocyte,62.0,35597.0,13919,1.4,3m
+173,Marrow,promonocyte,55.0,98361.0,19987,1.25,18m
+174,Marrow,promonocyte,1.0,144496.0,15704,1.47,24m
+175,Liver,neutrophil,1642.0,37766.0,11172,6.47,3m
+176,Lung,neutrophil,49.0,19220.0,2691,0.56,3m
+177,Liver,neutrophil,846.0,56208.0,15270,1.59,18m
+178,Lung,neutrophil,4.0,37828.0,5088,0.71,18m
+179,Liver,neutrophil,156.0,443149.0,56802,3.09,24m
+180,Lung,neutrophil,1.0,10049.0,2359,0.63,24m
+181,Skin,bulge keratinocyte,208.0,89225.0,15950,2.61,3m
+182,Skin,bulge keratinocyte,76.0,168667.0,33581,2.79,18m
+183,Skin,bulge keratinocyte,169.0,175607.0,30288,3.42,24m
+184,Lung,pulmonary interstitial fibroblast,738.0,67183.0,10705,1.45,3m
+185,Lung,pulmonary interstitial fibroblast,3330.0,16897.0,9205,1.14,18m
+186,Lung,pulmonary interstitial fibroblast,43.0,15874.0,4223,1.39,24m
+187,Liver,endothelial cell of hepatic sinusoid,30.0,71582.0,10638,2.83,3m
+188,Liver,endothelial cell of hepatic sinusoid,79.0,392029.0,33367,2.51,18m
+189,Liver,endothelial cell of hepatic sinusoid,649.0,231958.0,35355,2.29,24m
+190,Lung,vein endothelial cell,2563.0,37844.0,11599,1.55,3m
+191,Lung,vein endothelial cell,1442.0,65709.0,16944,1.17,18m
+192,Lung,vein endothelial cell,3153.0,106684.0,22311,2.0,24m
+193,BAT,NK cell,2267.0,110786.0,32668,5.1,3m
+194,GAT,NK cell,1317.0,30931.0,11055,1.52,3m
+195,Liver,NK cell,6005.0,12582.0,9418,2.09,3m
+196,Lung,NK cell,3002.0,36765.0,16158,1.52,3m
+197,MAT,NK cell,4031.0,29984.0,11936,1.53,3m
+198,Marrow,NK cell,896.0,46457.0,11875,1.99,3m
+199,SCAT,NK cell,1110.0,46558.0,12954,2.44,3m
+200,Spleen,NK cell,309.0,28266.0,7578,1.68,3m
+201,BAT,NK cell,9414.0,397240.0,64977,2.99,18m
+202,GAT,NK cell,4781.0,45539.0,16859,1.59,18m
+203,Liver,NK cell,7054.0,97443.0,33274,2.01,18m
+204,Lung,NK cell,5640.0,76824.0,32074,1.47,18m
+205,MAT,NK cell,541.0,18520.0,9932,1.43,18m
+206,Marrow,NK cell,165.0,122048.0,22824,2.22,18m
+207,SCAT,NK cell,286.0,75519.0,15802,1.6,18m
+208,Spleen,NK cell,994.0,139526.0,29502,2.17,18m
+209,BAT,NK cell,3463.0,85294.0,27204,4.65,24m
+210,GAT,NK cell,5916.0,17353.0,11220,2.08,24m
+211,Liver,NK cell,554.0,379267.0,48163,4.64,24m
+212,Lung,NK cell,891.0,10889.0,6070,2.21,24m
+213,MAT,NK cell,3231.0,18211.0,8871,1.82,24m
+214,Marrow,NK cell,31.0,91075.0,16281,2.19,24m
+215,SCAT,NK cell,522.0,460821.0,44668,3.03,24m
+216,Spleen,NK cell,1522.0,48491.0,19165,2.31,24m
+217,Brain_Non-Myeloid,neuron,876.0,394671.0,47152,4.2,3m
+218,Brain_Non-Myeloid,neuron,17.0,3017898.0,194651,7.96,18m
+219,Brain_Non-Myeloid,neuron,1294.0,3169507.0,229616,14.79,24m
+220,Marrow,mature alpha-beta T cell,83.0,40499.0,12692,2.39,3m
+221,Marrow,mature alpha-beta T cell,934.0,72787.0,21049,2.5,18m
+222,Marrow,mature alpha-beta T cell,40.0,161871.0,15760,2.9,24m
+223,Tongue,keratinocyte,1979.0,73439.0,15116,1.65,3m
+224,Tongue,keratinocyte,0.0,201903.0,20109,1.11,18m
+225,Trachea,keratinocyte,48.0,5237.0,1181,0.14,18m
+226,Tongue,keratinocyte,29.0,93360.0,9600,1.14,24m
+227,BAT,endothelial cell,277.0,638952.0,55689,15.07,3m
+228,Brain_Non-Myeloid,endothelial cell,85.0,197753.0,16625,2.13,3m
+229,Diaphragm,endothelial cell,76.0,22461.0,5821,1.42,3m
+230,GAT,endothelial cell,173.0,81491.0,13658,2.04,3m
+231,Limb_Muscle,endothelial cell,222.0,61345.0,9669,1.81,3m
+232,MAT,endothelial cell,548.0,79875.0,17399,1.84,3m
+233,Mammary_Gland,endothelial cell,508.0,93837.0,20224,2.66,3m
+234,Pancreas,endothelial cell,155.0,92725.0,20040,1.38,3m
+235,SCAT,endothelial cell,122.0,44395.0,10164,1.91,3m
+236,Thymus,endothelial cell,4657.0,58365.0,27999,2.55,3m
+237,Trachea,endothelial cell,1324.0,24362.0,8436,1.75,3m
+238,BAT,endothelial cell,595.0,1062294.0,77971,4.98,18m
+239,Brain_Non-Myeloid,endothelial cell,52.0,641433.0,65246,2.87,18m
+240,Diaphragm,endothelial cell,93.0,46002.0,8949,1.85,18m
+241,GAT,endothelial cell,1506.0,121705.0,21523,2.1,18m
+242,Limb_Muscle,endothelial cell,60.0,432152.0,18600,1.62,18m
+243,MAT,endothelial cell,77.0,60028.0,11828,2.33,18m
+244,Mammary_Gland,endothelial cell,1953.0,82669.0,17898,2.83,18m
+245,Pancreas,endothelial cell,29.0,252495.0,25253,1.45,18m
+246,SCAT,endothelial cell,11.0,111364.0,13056,1.41,18m
+247,Thymus,endothelial cell,336.0,393369.0,42523,3.78,18m
+248,Trachea,endothelial cell,3221.0,119014.0,30321,1.64,18m
+249,Mammary_Gland,endothelial cell,4310.0,38486.0,15356,2.1,21m
+250,BAT,endothelial cell,120.0,1597773.0,114532,2.72,24m
+251,Brain_Non-Myeloid,endothelial cell,2059.0,414803.0,82289,3.97,24m
+252,Diaphragm,endothelial cell,17.0,123835.0,7467,0.97,24m
+253,GAT,endothelial cell,338.0,201487.0,10440,2.01,24m
+254,Limb_Muscle,endothelial cell,433.0,234798.0,11892,2.09,24m
+255,MAT,endothelial cell,239.0,41076.0,10585,2.19,24m
+256,Pancreas,endothelial cell,1.0,36548.0,3950,1.81,24m
+257,SCAT,endothelial cell,85.0,105011.0,14312,0.65,24m
+258,Thymus,endothelial cell,32477.0,314840.0,163848,1.29,24m
+259,Trachea,endothelial cell,694.0,51927.0,17125,2.55,24m
+260,Brain_Non-Myeloid,oligodendrocyte precursor cell,30.0,143748.0,16694,1.63,3m
+261,Brain_Non-Myeloid,oligodendrocyte precursor cell,122.0,1763857.0,111451,2.31,18m
+262,Brain_Non-Myeloid,oligodendrocyte precursor cell,8696.0,147439.0,70418,2.41,24m
+263,Kidney,mesangial cell,1391.0,324353.0,69837,12.41,3m
+264,Kidney,mesangial cell,63.0,537402.0,128104,20.09,18m
+265,Kidney,mesangial cell,407.0,390130.0,49317,2.36,24m
+266,Brain_Myeloid,microglial cell,2.0,56988.0,6157,0.9,3m
+267,Brain_Myeloid,microglial cell,0.0,1868001.0,15678,1.29,18m
+268,Brain_Non-Myeloid,microglial cell,49.0,3525460.0,95497,30.62,18m
+269,Brain_Myeloid,microglial cell,0.0,1048669.0,14321,1.18,24m
+270,Brain_Non-Myeloid,microglial cell,9956.0,9956.0,9956,3.17,24m
+271,Lung,pericyte cell,750.0,13219.0,5650,1.07,3m
+272,Lung,pericyte cell,3233.0,60698.0,22325,1.17,18m
+273,Lung,pericyte cell,5412.0,46292.0,22227,2.08,24m
+274,Lung,plasmacytoid dendritic cell,9830.0,9830.0,9830,1.66,3m
+275,Lung,plasmacytoid dendritic cell,12431.0,28636.0,20533,1.05,18m
+276,Lung,plasmacytoid dendritic cell,2434.0,33679.0,21705,1.9,24m
+277,Lung,type I pneumocyte,5433.0,27787.0,15389,1.34,3m
+278,Kidney,kidney collecting duct epithelial cell,6.0,296238.0,77021,12.73,3m
+279,Kidney,kidney collecting duct epithelial cell,0.0,1966792.0,161146,9.49,18m
+280,Kidney,kidney collecting duct epithelial cell,0.0,1313104.0,131682,12.41,24m
+281,Spleen,proerythroblast,289.0,32543.0,5759,1.4,3m
+282,Spleen,proerythroblast,3.0,394777.0,51558,2.64,18m
+283,Spleen,proerythroblast,0.0,128671.0,25750,1.92,24m
+284,Brain_Non-Myeloid,mature NK T cell,1447.0,11441.0,7307,2.26,3m
+285,Liver,mature NK T cell,1368.0,50852.0,15079,2.87,3m
+286,Brain_Non-Myeloid,mature NK T cell,23218.0,55155.0,38861,2.31,18m
+287,Liver,mature NK T cell,77.0,197693.0,47508,2.76,18m
+288,Brain_Non-Myeloid,mature NK T cell,11263.0,52966.0,31833,2.17,24m
+289,Liver,mature NK T cell,13.0,206595.0,50099,2.36,24m
+290,Lung,mature NK T cell,6131.0,6131.0,6131,14.81,24m
+291,Bladder,bladder cell,92.0,59096.0,12234,1.41,3m
+292,Bladder,bladder cell,551.0,111870.0,22679,1.88,18m
+293,Bladder,bladder cell,1843.0,63600.0,22568,1.33,24m
+294,Large_Intestine,intestinal crypt stem cell,35.0,273287.0,74199,6.08,3m
+295,Large_Intestine,intestinal crypt stem cell,233.0,445545.0,138689,6.72,18m
+296,Large_Intestine,intestinal crypt stem cell,2894.0,586259.0,122238,7.17,24m
+297,Kidney,fenestrated cell,126.0,41186.0,8337,1.29,3m
+298,Kidney,fenestrated cell,5876.0,244335.0,34072,1.46,18m
+299,Kidney,fenestrated cell,39.0,335642.0,24178,1.39,24m
+300,Marrow,naive B cell,9.0,61287.0,17930,2.89,3m
+301,Marrow,naive B cell,73.0,304884.0,28341,3.27,18m
+302,Marrow,naive B cell,22.0,2399387.0,31941,4.05,24m
+303,Pancreas,pancreatic PP cell,7789.0,69046.0,17431,1.34,3m
+304,Pancreas,pancreatic PP cell,16026.0,98114.0,50544,1.94,18m
+305,Pancreas,pancreatic PP cell,566.0,27310.0,14193,2.17,24m
+306,Liver,Kupffer cell,3081.0,72163.0,32393,8.33,3m
+307,Liver,Kupffer cell,272.0,601053.0,72837,5.18,18m
+308,Liver,Kupffer cell,6.0,499041.0,54004,2.9,24m
+309,BAT,mesenchymal stem cell of adipose,1605.0,308942.0,25177,2.83,3m
+310,GAT,mesenchymal stem cell of adipose,5.0,60102.0,14575,1.27,3m
+311,MAT,mesenchymal stem cell of adipose,1.0,38371.0,14346,1.18,3m
+312,SCAT,mesenchymal stem cell of adipose,6.0,83951.0,10036,0.94,3m
+313,BAT,mesenchymal stem cell of adipose,26874.0,175611.0,70123,1.44,18m
+314,GAT,mesenchymal stem cell of adipose,106.0,271653.0,25449,1.34,18m
+315,MAT,mesenchymal stem cell of adipose,0.0,111693.0,22447,1.14,18m
+316,SCAT,mesenchymal stem cell of adipose,169.0,224837.0,22997,1.09,18m
+317,BAT,mesenchymal stem cell of adipose,112.0,377477.0,48916,1.37,24m
+318,GAT,mesenchymal stem cell of adipose,66.0,378567.0,22502,1.26,24m
+319,MAT,mesenchymal stem cell of adipose,51.0,410577.0,31180,1.27,24m
+320,SCAT,mesenchymal stem cell of adipose,9.0,240233.0,26370,1.01,24m
+321,Thymus,fibroblast,71.0,30165.0,16078,2.1,3m
+322,Trachea,fibroblast,24.0,40046.0,11531,1.37,3m
+323,Skin,fibroblast,40.0,154303.0,43169,5.63,18m
+324,Thymus,fibroblast,14924.0,154212.0,76014,2.25,18m
+325,Trachea,fibroblast,0.0,253581.0,32903,1.29,18m
+326,Skin,fibroblast,135.0,14873.0,4587,2.13,24m
+327,Thymus,fibroblast,150.0,195838.0,74545,1.11,24m
+328,Trachea,fibroblast,203.0,163490.0,22011,1.61,24m
+329,Skin,keratinocyte stem cell,4101.0,30562.0,15681,1.59,3m
+330,Skin,keratinocyte stem cell,21531.0,99707.0,47161,1.71,18m
+331,Skin,keratinocyte stem cell,31677.0,198060.0,114868,2.31,24m
+332,Trachea,basal epithelial cell of tracheobronchial tree,719.0,83338.0,23741,5.45,3m
+333,Trachea,basal epithelial cell of tracheobronchial tree,20.0,431733.0,60429,5.32,18m
+334,Trachea,basal epithelial cell of tracheobronchial tree,16.0,305880.0,25475,5.33,24m
+335,Lung,type II pneumocyte,216.0,67829.0,23929,2.78,3m
+336,Lung,type II pneumocyte,0.0,118463.0,27583,1.68,18m
+337,Lung,type II pneumocyte,1386.0,519703.0,81004,3.21,24m
+338,Bladder,bladder urothelial cell,435.0,155341.0,27314,2.26,3m
+339,Bladder,bladder urothelial cell,109.0,228847.0,36009,4.0,18m
+340,Bladder,bladder urothelial cell,4176.0,373446.0,39633,2.67,24m
+341,Kidney,epithelial cell of proximal tubule,1585.0,215703.0,52897,12.32,3m
+342,Kidney,epithelial cell of proximal tubule,817.0,2502024.0,204318,8.55,18m
+343,Kidney,epithelial cell of proximal tubule,78.0,1488706.0,117406,10.58,24m
+344,Brain_Non-Myeloid,"CD8-positive, alpha-beta T cell",1353.0,23389.0,9488,2.18,3m
+345,GAT,"CD8-positive, alpha-beta T cell",3934.0,42507.0,17661,3.21,3m
+346,Lung,"CD8-positive, alpha-beta T cell",1673.0,30414.0,10522,2.15,3m
+347,MAT,"CD8-positive, alpha-beta T cell",458.0,47234.0,20745,2.9,3m
+348,SCAT,"CD8-positive, alpha-beta T cell",1163.0,35122.0,11889,3.39,3m
+349,Spleen,"CD8-positive, alpha-beta T cell",2176.0,95457.0,21657,3.95,3m
+350,Brain_Non-Myeloid,"CD8-positive, alpha-beta T cell",4786.0,256915.0,92453,4.19,18m
+351,GAT,"CD8-positive, alpha-beta T cell",1488.0,75069.0,17590,2.21,18m
+352,Liver,"CD8-positive, alpha-beta T cell",6599.0,38850.0,29021,2.23,18m
+353,Lung,"CD8-positive, alpha-beta T cell",2500.0,150789.0,42142,2.44,18m
+354,MAT,"CD8-positive, alpha-beta T cell",50.0,164903.0,14564,2.32,18m
+355,SCAT,"CD8-positive, alpha-beta T cell",110.0,51424.0,12763,1.43,18m
+356,Spleen,"CD8-positive, alpha-beta T cell",6309.0,111803.0,39387,3.09,18m
+357,Brain_Non-Myeloid,"CD8-positive, alpha-beta T cell",373.0,321840.0,46394,3.87,24m
+358,GAT,"CD8-positive, alpha-beta T cell",1808.0,63978.0,15629,3.24,24m
+359,Liver,"CD8-positive, alpha-beta T cell",9.0,344961.0,34558,2.15,24m
+360,Lung,"CD8-positive, alpha-beta T cell",98.0,101412.0,14825,2.83,24m
+361,MAT,"CD8-positive, alpha-beta T cell",2198.0,98310.0,25364,2.96,24m
+362,SCAT,"CD8-positive, alpha-beta T cell",704.0,39421.0,11806,2.29,24m
+363,Spleen,"CD8-positive, alpha-beta T cell",59.0,92494.0,18208,2.54,24m
+364,Heart,endothelial cell of coronary artery,149.0,1511140.0,82245,11.72,3m
+365,Heart,endothelial cell of coronary artery,1708.0,2265665.0,210260,14.81,18m
+366,Heart,endothelial cell of coronary artery,78.0,3613784.0,126102,9.86,24m
+367,Heart,monocyte,493.0,1251882.0,56912,5.89,3m
+368,Heart,monocyte,519.0,3784543.0,165495,10.25,18m
+369,Heart,monocyte,161.0,2623583.0,96011,5.75,24m
+370,Heart,endocardial cell,2696.0,323456.0,33920,4.06,3m
+371,Heart,endocardial cell,9256.0,297376.0,79054,7.06,18m
+372,Heart,endocardial cell,293.0,1502642.0,53013,5.76,24m
+373,Pancreas,pancreatic stellate cell,1588.0,44705.0,15841,1.07,3m
+374,Pancreas,pancreatic stellate cell,1840.0,94661.0,53378,1.67,18m
+375,Pancreas,pancreatic stellate cell,847.0,120177.0,21723,1.35,24m
+376,Lung,club cell of bronchiole,12.0,71159.0,21856,4.93,3m
+377,Lung,club cell of bronchiole,3.0,6119.0,1342,0.23,18m
+378,Lung,club cell of bronchiole,90.0,14619.0,2661,0.3,24m
+379,Thymus,thymocyte,396.0,102520.0,16396,2.09,3m
+380,Thymus,thymocyte,0.0,296182.0,28810,3.01,18m
+381,Thymus,thymocyte,23.0,115676.0,24490,2.24,24m
+382,Lung,bronchial smooth muscle cell,46.0,31185.0,6825,1.23,3m
+383,Lung,bronchial smooth muscle cell,6.0,178950.0,14013,1.01,18m
+384,Lung,bronchial smooth muscle cell,268.0,215555.0,16125,1.26,24m
+385,Aorta,epithelial cell,13394.0,265735.0,120164,68.48,3m
+386,BAT,epithelial cell,20183.0,133010.0,76596,9.03,3m
+387,GAT,epithelial cell,19451.0,91311.0,39134,5.25,3m
+388,MAT,epithelial cell,1563.0,36969.0,18386,5.16,3m
+389,SCAT,epithelial cell,240.0,55427.0,23127,2.37,3m
+390,GAT,epithelial cell,709.0,89883.0,19127,2.23,18m
+391,MAT,epithelial cell,163.0,15841.0,5560,3.67,18m
+392,SCAT,epithelial cell,1.0,60087.0,13695,3.35,18m
+393,Aorta,epithelial cell,1903.0,121498.0,30028,10.03,24m
+394,BAT,epithelial cell,47.0,533344.0,22829,9.97,24m
+395,GAT,epithelial cell,287.0,28818.0,5173,4.08,24m
+396,MAT,epithelial cell,222.0,78173.0,13222,3.05,24m
+397,SCAT,epithelial cell,76.0,178702.0,7965,3.92,24m
+398,GAT,"CD4-positive, alpha-beta T cell",14.0,47354.0,17767,2.31,3m
+399,Lung,"CD4-positive, alpha-beta T cell",2189.0,57809.0,17929,2.8,3m
+400,MAT,"CD4-positive, alpha-beta T cell",622.0,68402.0,21243,2.77,3m
+401,Marrow,"CD4-positive, alpha-beta T cell",61.0,26446.0,7858,2.25,3m
+402,SCAT,"CD4-positive, alpha-beta T cell",948.0,26819.0,7391,1.62,3m
+403,Spleen,"CD4-positive, alpha-beta T cell",1374.0,82395.0,18920,3.49,3m
+404,GAT,"CD4-positive, alpha-beta T cell",596.0,49002.0,15214,1.9,18m
+405,Liver,"CD4-positive, alpha-beta T cell",17553.0,118057.0,44043,3.05,18m
+406,Lung,"CD4-positive, alpha-beta T cell",7336.0,111395.0,24958,3.33,18m
+407,MAT,"CD4-positive, alpha-beta T cell",713.0,85931.0,21366,2.27,18m
+408,Marrow,"CD4-positive, alpha-beta T cell",153.0,199141.0,23351,3.0,18m
+409,SCAT,"CD4-positive, alpha-beta T cell",1742.0,39100.0,12498,1.15,18m
+410,Spleen,"CD4-positive, alpha-beta T cell",585.0,114303.0,36040,3.01,18m
+411,GAT,"CD4-positive, alpha-beta T cell",1127.0,85451.0,14401,2.92,24m
+412,Liver,"CD4-positive, alpha-beta T cell",125.0,187798.0,31121,3.09,24m
+413,Lung,"CD4-positive, alpha-beta T cell",3910.0,3910.0,3910,3.46,24m
+414,MAT,"CD4-positive, alpha-beta T cell",171.0,79781.0,18620,3.2,24m
+415,Marrow,"CD4-positive, alpha-beta T cell",26.0,89079.0,16156,3.32,24m
+416,SCAT,"CD4-positive, alpha-beta T cell",802.0,281128.0,31433,1.6,24m
+417,Spleen,"CD4-positive, alpha-beta T cell",101.0,130550.0,20123,3.11,24m
+418,Pancreas,pancreatic D cell,3481.0,133217.0,19928,1.46,3m
+419,Pancreas,pancreatic D cell,9650.0,89291.0,39526,2.44,18m
+420,Pancreas,pancreatic D cell,93.0,116437.0,19499,2.61,24m
+421,Lung,lung macrophage,17141.0,17141.0,17141,1.55,3m
+422,Lung,lung macrophage,5365.0,18188.0,13749,1.64,24m
+423,Thymus,DN4 thymocyte,125.0,93214.0,18678,2.96,3m
+424,Thymus,DN4 thymocyte,213.0,143437.0,24457,2.17,18m
+425,Thymus,DN4 thymocyte,25.0,330061.0,25520,2.59,24m
+426,Kidney,kidney collecting duct principal cell,1931.0,595781.0,117319,24.94,3m
+427,Kidney,kidney collecting duct principal cell,9503.0,6162093.0,334694,23.83,18m
+428,Kidney,kidney collecting duct principal cell,383.0,4302973.0,235230,20.67,24m
+429,Large_Intestine,Brush cell of epithelium proper of large intestine,3683.0,155832.0,30334,8.9,3m
+430,Large_Intestine,Brush cell of epithelium proper of large intestine,542.0,360396.0,65204,11.18,18m
+431,Large_Intestine,Brush cell of epithelium proper of large intestine,658.0,245680.0,46454,7.99,24m
+432,Lung,adventitial cell,18.0,39446.0,9884,0.96,3m
+433,Lung,adventitial cell,420.0,82533.0,18645,1.1,18m
+434,Lung,adventitial cell,39.0,155110.0,16847,1.37,24m
+435,Lung,lymphocyte,5342.0,34834.0,20088,1.86,3m
+436,Lung,lymphocyte,14404.0,69459.0,36559,1.93,18m
+437,Lung,lymphocyte,8338.0,9707.0,9022,2.85,24m
+438,Marrow,granulocytopoietic cell,2138.0,39649.0,12858,1.29,3m
+439,Marrow,granulocytopoietic cell,47.0,116507.0,20176,0.89,18m
+440,Marrow,granulocytopoietic cell,16.0,120558.0,18372,0.79,24m
+441,Lung,regulatory T cell,23121.0,23121.0,23121,3.52,3m
+442,Lung,regulatory T cell,3509.0,47229.0,19674,2.3,18m
+443,Lung,regulatory T cell,814.0,219891.0,19504,2.23,24m
+444,Marrow,late pro-B cell,4176.0,64296.0,21003,2.46,3m
+445,Marrow,late pro-B cell,522.0,133145.0,35599,2.11,18m
+446,Marrow,late pro-B cell,617.0,107881.0,21904,2.13,24m
+447,Brain_Non-Myeloid,interneuron,29.0,760143.0,100128,35.65,3m
+448,Brain_Non-Myeloid,interneuron,16839.0,2948517.0,276240,30.1,18m
+449,Brain_Non-Myeloid,interneuron,619.0,531615.0,152718,13.09,24m
+450,Lung,respiratory basal cell,14467.0,50911.0,34579,2.15,3m
+451,Lung,respiratory basal cell,2623.0,106179.0,40649,2.58,18m
+452,Lung,ciliated columnar cell of tracheobronchial tree,3216.0,70054.0,26995,2.63,3m
+453,Trachea,ciliated columnar cell of tracheobronchial tree,5253.0,44213.0,18712,5.46,3m
+454,Lung,ciliated columnar cell of tracheobronchial tree,7.0,123007.0,25419,1.48,18m
+455,Trachea,ciliated columnar cell of tracheobronchial tree,13119.0,138412.0,53701,9.14,18m
+456,Lung,ciliated columnar cell of tracheobronchial tree,106.0,271989.0,68485,3.3,24m
+457,Trachea,ciliated columnar cell of tracheobronchial tree,261.0,213789.0,47780,6.55,24m
+458,Lung,classical monocyte,1061.0,58856.0,16579,1.27,3m
+459,Lung,classical monocyte,778.0,127706.0,35257,1.32,18m
+460,Lung,classical monocyte,156.0,127416.0,24996,1.48,24m
+461,Large_Intestine,large intestine goblet cell,2128.0,311281.0,49970,4.43,3m
+462,Large_Intestine,large intestine goblet cell,218.0,518237.0,83280,4.65,18m
+463,Large_Intestine,large intestine goblet cell,22.0,1218405.0,74413,4.61,24m
+464,Mammary_Gland,stromal cell,1113.0,62867.0,10860,1.38,3m
+465,Mammary_Gland,stromal cell,285.0,28497.0,11912,1.38,18m
+466,Mammary_Gland,stromal cell,1262.0,34228.0,11182,1.45,21m
+467,Large_Intestine,epithelial cell of large intestine,88.0,304903.0,76855,19.23,3m
+468,Large_Intestine,epithelial cell of large intestine,1283.0,654193.0,140682,20.42,18m
+469,Large_Intestine,epithelial cell of large intestine,79.0,1365046.0,125311,18.99,24m
+470,Lung,endothelial cell of lymphatic vessel,925.0,20082.0,6519,1.01,3m
+471,Lung,endothelial cell of lymphatic vessel,4145.0,37448.0,14967,1.18,18m
+472,Lung,endothelial cell of lymphatic vessel,792.0,108094.0,25205,1.45,24m
+473,BAT,myeloid cell,46.0,1096913.0,73839,14.44,3m
+474,GAT,myeloid cell,32.0,65511.0,12656,1.6,3m
+475,MAT,myeloid cell,531.0,48887.0,13654,1.67,3m
+476,SCAT,myeloid cell,88.0,28628.0,8703,1.5,3m
+477,BAT,myeloid cell,230.0,1440118.0,125380,5.45,18m
+478,GAT,myeloid cell,851.0,73581.0,17889,1.35,18m
+479,MAT,myeloid cell,120.0,48303.0,10783,1.29,18m
+480,SCAT,myeloid cell,47.0,56525.0,14614,1.23,18m
+481,BAT,myeloid cell,7.0,1656242.0,30834,6.89,24m
+482,GAT,myeloid cell,95.0,107180.0,16753,1.61,24m
+483,MAT,myeloid cell,112.0,46438.0,8699,1.54,24m
+484,SCAT,myeloid cell,4.0,340609.0,15038,1.57,24m
+485,Marrow,early pro-B cell,4219.0,48492.0,21625,2.43,3m
+486,Marrow,early pro-B cell,4078.0,69151.0,18627,1.61,18m
+487,Marrow,early pro-B cell,26.0,178756.0,19196,1.98,24m
+488,Marrow,lymphoid progenitor cell,220.0,51344.0,6733,3.66,18m
+489,Brain_Non-Myeloid,oligodendrocyte,70.0,256385.0,23540,2.11,3m
+490,Brain_Non-Myeloid,oligodendrocyte,226.0,5251500.0,159901,3.62,18m
+491,Brain_Non-Myeloid,oligodendrocyte,282.0,721287.0,116623,3.72,24m
+492,Lung,myeloid dendritic cell,12.0,50214.0,15164,1.53,3m
+493,Lung,myeloid dendritic cell,322.0,178118.0,27516,1.66,18m
+494,Lung,myeloid dendritic cell,0.0,228427.0,30949,1.62,24m
+495,Lung,intermediate monocyte,1455.0,25111.0,12471,1.03,3m
+496,Lung,intermediate monocyte,15479.0,15479.0,15479,0.97,18m
+497,Marrow,megakaryocyte-erythroid progenitor cell,1123.0,26886.0,15551,2.17,3m
+498,Marrow,megakaryocyte-erythroid progenitor cell,389.0,44141.0,13041,1.43,18m
+499,Marrow,megakaryocyte-erythroid progenitor cell,145.0,400858.0,25517,2.21,24m
+500,Trachea,mucus secreting cell,608.0,56613.0,19090,4.65,3m
+501,Trachea,mucus secreting cell,2742.0,59180.0,17518,2.12,18m
+502,Trachea,mucus secreting cell,34.0,142025.0,26466,3.14,24m
+503,Thymus,epithelial cell of thymus,178.0,96619.0,30169,4.6,3m
+504,Thymus,epithelial cell of thymus,24.0,337795.0,33814,11.65,18m
+505,Thymus,epithelial cell of thymus,61.0,425559.0,37539,3.63,24m
+506,Brain_Non-Myeloid,neuroepithelial cell,5621.0,17371.0,10586,18.16,3m
+507,Brain_Non-Myeloid,neuroepithelial cell,0.0,522906.0,31698,19.77,18m
+508,Brain_Non-Myeloid,neuroepithelial cell,41555.0,159600.0,95206,20.02,24m
+509,Pancreas,pancreatic ductal cell,2780.0,149986.0,28884,2.44,3m
+510,Pancreas,pancreatic ductal cell,253.0,297904.0,98053,2.47,18m
+511,Pancreas,pancreatic ductal cell,37.0,671730.0,19980,2.01,24m
+512,Diaphragm,skeletal muscle satellite cell,67.0,69271.0,16488,3.14,3m
+513,Limb_Muscle,skeletal muscle satellite cell,19.0,106487.0,26144,3.47,3m
+514,Diaphragm,skeletal muscle satellite cell,68.0,236685.0,64534,2.88,18m
+515,Limb_Muscle,skeletal muscle satellite cell,36.0,338841.0,41836,3.02,18m
+516,Diaphragm,skeletal muscle satellite cell,9.0,258325.0,11524,1.59,24m
+517,Limb_Muscle,skeletal muscle satellite cell,1.0,305371.0,24576,3.12,24m
+518,Brain_Non-Myeloid,Bergmann glial cell,7149.0,90991.0,41113,1.79,3m
+519,Brain_Non-Myeloid,Bergmann glial cell,46228.0,211283.0,117451,4.9,18m
+520,Brain_Non-Myeloid,Bergmann glial cell,64564.0,307084.0,154347,8.78,24m
+521,Aorta,aortic endothelial cell,940.0,250955.0,29759,5.08,3m
+522,Aorta,aortic endothelial cell,204.0,1520403.0,288467,11.52,18m
+523,Aorta,aortic endothelial cell,422.0,873794.0,92825,3.01,24m
+524,Aorta,professional antigen presenting cell,18.0,133017.0,26850,6.35,3m
+525,Aorta,professional antigen presenting cell,20.0,347319.0,53593,38.17,18m
+526,Aorta,professional antigen presenting cell,2872.0,1737214.0,197529,11.38,24m
+527,Lung,plasma cell,595.0,36857.0,15173,0.74,18m
+528,Lung,plasma cell,2125.0,234123.0,46656,1.59,24m
+529,Marrow,immature B cell,122.0,74411.0,18953,2.93,3m
+530,Marrow,immature B cell,1612.0,150865.0,29829,2.73,18m
+531,Marrow,immature B cell,160.0,114007.0,24666,2.94,24m
+532,Marrow,granulocyte monocyte progenitor cell,9389.0,81163.0,27533,2.03,3m
+533,Marrow,granulocyte monocyte progenitor cell,89.0,130570.0,36208,1.82,18m
+534,Marrow,granulocyte monocyte progenitor cell,3614.0,194103.0,39233,1.81,24m
+535,Heart,ventricular myocyte,165645.0,627980.0,401907,38.63,3m
+536,Heart,ventricular myocyte,33548.0,3829034.0,614610,30.91,24m
+537,Liver,myeloid leukocyte,40.0,49482.0,20433,4.12,3m
+538,Liver,myeloid leukocyte,288.0,260225.0,43712,1.81,18m
+539,Liver,myeloid leukocyte,62.0,330956.0,53452,1.39,24m
+540,Aorta,macrophage,9599.0,131201.0,46645,2.04,3m
+541,Brain_Myeloid,macrophage,752.0,42304.0,13135,1.21,3m
+542,Diaphragm,macrophage,1735.0,26916.0,11920,1.68,3m
+543,Heart,macrophage,3420.0,61079.0,32249,56.18,3m
+544,Kidney,macrophage,1301.0,139934.0,17073,2.1,3m
+545,Limb_Muscle,macrophage,36.0,66197.0,13348,1.77,3m
+546,MAT,macrophage,486.0,37149.0,12686,1.39,3m
+547,Marrow,macrophage,721.0,31048.0,8548,1.4,3m
+548,Skin,macrophage,3423.0,23924.0,10751,1.52,3m
+549,Thymus,macrophage,3817.0,76382.0,25975,2.55,3m
+550,Trachea,macrophage,2151.0,32660.0,11292,1.74,3m
+551,Aorta,macrophage,261610.0,261610.0,261610,1.44,18m
+552,Brain_Myeloid,macrophage,150.0,2124414.0,46051,2.51,18m
+553,Diaphragm,macrophage,96.0,74141.0,7799,1.43,18m
+554,Heart,macrophage,22382.0,2592981.0,319260,76.07,18m
+555,Kidney,macrophage,505.0,127289.0,29185,1.86,18m
+556,Limb_Muscle,macrophage,8.0,98166.0,11110,2.12,18m
+557,MAT,macrophage,383.0,32786.0,10750,1.01,18m
+558,Marrow,macrophage,80.0,142147.0,14767,1.31,18m
+559,Skin,macrophage,2591.0,28851.0,11579,0.93,18m
+560,Thymus,macrophage,2730.0,87506.0,36435,2.88,18m
+561,Trachea,macrophage,451.0,181812.0,33775,1.53,18m
+562,Aorta,macrophage,78067.0,224242.0,160471,1.71,24m
+563,Brain_Myeloid,macrophage,0.0,188618.0,23795,1.33,24m
+564,Brain_Non-Myeloid,macrophage,346.0,201688.0,28845,28.82,24m
+565,Diaphragm,macrophage,1236.0,36801.0,9038,2.04,24m
+566,Heart,macrophage,2917.0,1039991.0,236508,88.73,24m
+567,Kidney,macrophage,0.0,815682.0,34025,1.34,24m
+568,Limb_Muscle,macrophage,871.0,244007.0,36753,1.8,24m
+569,MAT,macrophage,836.0,82612.0,19437,1.4,24m
+570,Marrow,macrophage,98.0,347025.0,17987,1.8,24m
+571,Skin,macrophage,26991.0,26991.0,26991,5.53,24m
+572,Thymus,macrophage,53.0,299707.0,13395,2.53,24m
+573,Trachea,macrophage,120.0,139850.0,32061,2.03,24m
+574,Large_Intestine,enteroendocrine cell,501.0,64344.0,13845,4.5,3m
+575,Large_Intestine,enteroendocrine cell,10799.0,133386.0,43884,3.45,18m
+576,Large_Intestine,enteroendocrine cell,893.0,147541.0,29798,3.15,24m
+577,Trachea,smooth muscle cell of trachea,2506.0,39625.0,15948,3.09,3m
+578,Trachea,smooth muscle cell of trachea,114.0,250175.0,70399,3.09,18m
+579,Trachea,smooth muscle cell of trachea,9607.0,114368.0,52353,2.74,24m
+580,Skin,epidermal cell,393.0,60934.0,16473,1.98,3m
+581,Skin,epidermal cell,8983.0,195051.0,34801,1.94,18m
+582,Skin,epidermal cell,100.0,450209.0,56077,2.33,24m
+583,Lung,non-classical monocyte,1887.0,19395.0,7890,1.11,3m
+584,Lung,non-classical monocyte,1144.0,47854.0,11906,1.1,18m
+585,Lung,non-classical monocyte,17.0,55181.0,9774,1.46,24m
+586,Lung,smooth muscle cell of the pulmonary artery,3650.0,32330.0,12295,1.71,3m
+587,Lung,smooth muscle cell of the pulmonary artery,3398.0,61513.0,22523,1.42,18m
+588,Lung,smooth muscle cell of the pulmonary artery,12539.0,54026.0,25971,1.71,24m
+589,Diaphragm,mesenchymal stem cell,61.0,45601.0,12201,1.62,3m
+590,Limb_Muscle,mesenchymal stem cell,690.0,87726.0,14790,1.44,3m
+591,Diaphragm,mesenchymal stem cell,11329.0,187468.0,66049,1.33,18m
+592,Limb_Muscle,mesenchymal stem cell,118.0,196633.0,28350,1.36,18m
+593,Diaphragm,mesenchymal stem cell,37.0,215773.0,13978,0.88,24m
+594,Limb_Muscle,mesenchymal stem cell,92.0,970021.0,24712,1.59,24m
+595,Brain_Non-Myeloid,ependymal cell,2911.0,59456.0,24127,2.73,3m
+596,Brain_Non-Myeloid,ependymal cell,32.0,1155097.0,120746,3.55,18m
+597,Brain_Non-Myeloid,ependymal cell,75359.0,559929.0,234828,5.4,24m
