@@ -1,0 +1,3 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+WikiPathways_2019_Mouse	Proteasome Degradation WP519	1/52	0.0257034430516592	0.0514068861033185	0	0	43.4400871459695	159.03982037824832	RPN1
+WikiPathways_2019_Mouse	Insulin Signaling WP65	1/159	0.0767317181460946	0.0767317181460946	0	0	13.946554149085795	35.80694267122304	XBP1
